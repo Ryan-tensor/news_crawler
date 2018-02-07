@@ -27,4 +27,4 @@ for title in my_titles:
 # body > section.main-content > ul:nth-child(11)
 
 ##yDmH0d > c-wiz > div > div.fWwQIb.ChVoCd.rOrCPc.AfWyGd > main > div.KaRWed.XogBlf > div:nth-child(1) > c-wiz > div > c-wiz.PaqQNc.QwxBBf.f2t20b.PBWx0c > div > div > div.v4IxVd > div.M1Uqc.kWyHVd > a
-##                                                                                                                                                               div > div.v4IxVd > div.M1Uqc.kWyHVd > a
+###                                                                                                                                                               div > div.v4IxVd > div.M1Uqc.kWyHVd > a
